@@ -1,0 +1,33 @@
+# Entorno virtual
+manim-env/
+venv/
+.env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Archivos de Manim
+media/
+videos/
+images/
+Tex/
+.partial_mobjects/
+.partial_movie_files/
+
+# Archivos temporales de render
+*.mp4
+*.gif
+*.mov
+*.avi
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
